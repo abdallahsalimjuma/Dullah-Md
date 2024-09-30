@@ -45,7 +45,7 @@ const date = moment().format('DD/MM/YYYY');
     ▸ *plugin* : ${cm.length} 
     ▸ *rom* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
     ▸ *running on* : ${os.platform()}
-    ▸ *theme* : *DULLA*
+    ▸ *theme* : *DULLAH*
 
 > DULLAH MD 💥 2024\n${readmore}`;
     
