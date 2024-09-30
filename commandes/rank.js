@@ -251,7 +251,7 @@ zokou( {
     const {ms , mybotpic} = commandeOptions ;
 
 
-       let msg = `┏━━┛ MR DULLAH TEACH┗━━┓\n\n`
+       let msg = `┏━━┛ MR DULLAH BOT┗━━┓\n\n`
        
       let topRanks = await getBottom10Users() ;
         let mention = [] ;
