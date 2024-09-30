@@ -1,13 +1,13 @@
-## Dullah Md 💫✔️
- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=red&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm+Dullah+Md+Created+by+Dulla.&heart;++;Self-taught+Back-Created+By,;Fredie+Tech+Am+The,;Best+Is+Bot+For+You+To,;Deploy..<3"></a>
- <a href="https://whatsapp.com/channel/0029VaihcQv84Om8LP59fO3f">
+## Dullah Md V2💫✔️
+ <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=red&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm+Dullah+Md+Created+by+Dulla.&heart;++;Self-taught+Back-Created+By,;Dullah+Md+Am+The,;Best+Is+Bot+For+You+To,;Deploy..<3"></a>
+ <a href="https://whatsapp.com/channel/GufiUEQ7Jj1D2kszcZqOgx">
  <img alt="Dullah Md😎" height="300" src="https://telegra.ph/file/f0f8ef25b35b76be901a7.jpg">
   
 </h1> 
 <p align="center">l introduce <b>Dullah-Md</b>, a  simple WhatsApp bot Created By Dulla</p>
 
 </p>
-<p align="center"><img src="https://profile-counter.glitch.me/{Fred1e}/count.svg" alt="Dullah Md :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{Dullah}/count.svg" alt="Dullah Md :: Visitor's Count" /></p>
 
 ---
 
@@ -29,7 +29,7 @@
 href="https://www.facebook.com/100087010467670"><img title="Author" src="https://img.shields.io/badge/ON Facebook-blue?style=for-the-badge&logo=facebook"></a>
 - <a
 href="https://wa.me/255716945971"><img title="Author" src="https://img.shields.io/badge/ON WhatsApp-pupple?style=for-the-badge&logo=watsapp"></a>
-- <a href="https://chat.whatsapp.com/CP2BirU5pBj04cXXgEbfuv"><img title="Author" src="https://img.shields.io/badge/ON Wa Group-green?style=for-the-badge&logo=watsapp"></a>
+- <a href="https://chat.whatsapp.com/GufiUEQ7Jj1D2kszcZqOgx"><img title="Author" src="https://img.shields.io/badge/ON Wa Group-green?style=for-the-badge&logo=watsapp"></a>
 - <a href="https://youtube.com/@herokuplatform?si=kl684fKNUpxTFig2"><img title="Author" src="https://img.shields.io/badge/ON YouTube-darkred?style=for-the-badge&logo=youtube"></a>
 
     
@@ -92,18 +92,18 @@ star✨ my repo bruh don't forget please🤖
 CONTACT DEVELOPER ON WHATSAPP 
 
 <a href="https://wa.me/255716945971" target="_blank">
-    <img alt="whatsapp Group" src="https://img.shields.io/badge/ Dulla contact -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    <img alt="whatsapp Group" src="https://img.shields.io/badge/ Dullah contact -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 
   
  
-<a href="https://whatsapp.com/channel/0029VaihcQv84Om8LP59fO3f" target="_blank">
+<a href="https://whatsapp.com/channel/GufiUEQ7Jj1D2kszcZqOgx" target="_blank">
     <img alt="whatsapp Group" src="https://img.shields.io/badge/WhatsApp  Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
  
 
 ## License
 
-The WhatsApp Bot Dullah MD💫 is released under the [MIT License](https://opensource.org/licenses/MIT).
+The WhatsApp Bot Dullah MD V2💫 is released under the [MIT License](https://opensource.org/licenses/MIT).
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 💫THANK YOU FOR CHOOSING Dullah Md💫
@@ -113,8 +113,8 @@ The WhatsApp Bot Dullah MD💫 is released under the [MIT License](https://opens
 
 - [**DULLAH SIR**](https://github.com/abdallahsalimjuma)
 - [**DULLAH_MD **](https://github.com/DULLAH)
-- [**DULLAH MD**](https://github.com/Frecyber)
-- [**Developers WA Group**](https://chat.whatsapp.com/CP2BirU5pBj04cXXgEbfuv)
+- [**DULLAH MD**](https://github.com/abdallahsalimjuma)
+- [**Developers WA Group**](https://chat.whatsapp.com/GufiUEQ7Jj1D2kszcZqOgx)
 - [**Developers YouTube**](https://youtube.com/@herokuplatform)
  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
  
