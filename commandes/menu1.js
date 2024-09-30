@@ -40,10 +40,10 @@ const date = moment().format('DD/MM/YYYY');
     ▸ *commander* : ${cm.length} 
     ▸ *rom* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
     ▸ *uptime* : ${os.platform()}
-    ▸ *theme* : *MR DULLA*
+    ▸ *theme* : *MR DULLAH*
 
 > DULLAH MD 💥 WA BOT
-> POWERED BY MR DULLA 💎\n${readmore}`;
+> POWERED BY MR DULLAH 💎\n${readmore}`;
     
 let menuMsg = `
 > Hello ${nomAuteurMessage},,, Type menu2 to access a list of commands. 
